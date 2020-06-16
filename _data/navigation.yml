@@ -6,3 +6,15 @@
       url: /modules/графи/
     - title: Теорія множин
       url: /modules/теорія множин/
+- title: Практичні
+  sublinks:
+    - title: Практична 1
+      url:
+    - title: Практична 2
+      url:
+    - title: Практична 3
+      url:
+    - title: Практична 4
+      url:
+- title: Матеріали для самостійного опрацювання
+  url:
