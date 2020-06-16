@@ -1,11 +1,11 @@
 - title: Теорія
   sublinks:
     - title: Логарифми
-      url: /modules/логарифми/
+      url: /modules/логарифми/Лекція-1
     - title: Графи
-      url: /modules/графи/
+      url: /modules/графи/Лекція-1
     - title: Теорія множин
-      url: /modules/теорія множин/
+      url: /modules/теорія множин/Лекція-1
 - title: Практичні
   sublinks:
     - title: Практична 1
