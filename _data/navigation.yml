@@ -1,8 +1,8 @@
 - title: Теорія
   sublinks:
     - title: Логарифми
-      url: /Логарифми/
+      url: /modules/Логарифми/
     - title: Графи
-      url: /Графи/
+      url: /modules/Графи/
     - title: Теорія множин
-      url: /Теорія множин/
+      url: /modules/Теорія множин/
