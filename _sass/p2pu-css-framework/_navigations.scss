@@ -374,7 +374,7 @@ $navbar-light: $gray-snow;
 			border-bottom-color: $gray;
 			& > li a {
 				&:hover, &:focus {
-					color: $gray-dark !important;
+					color: #fff !important;
 				}
 			}
 			& > li.active a {
