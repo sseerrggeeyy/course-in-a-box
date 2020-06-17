@@ -1,7 +1,7 @@
 - title: Теорія
   sublinks:
-    - title: Логарифми
-      url: /modules/логарифми/Лекція-1
+    - title: Логіка висловлень
+      url: /modules/логіка висловлень/Лекція-1
     - title: Графи
       url: /modules/графи/Лекція-1
     - title: Теорія множин
