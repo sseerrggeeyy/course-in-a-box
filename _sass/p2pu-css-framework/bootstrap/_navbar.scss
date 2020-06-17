@@ -48,6 +48,7 @@
 // content for the user's viewport.
 
 .navbar-collapse {
+  margin-left: 20%;
   overflow-x: visible;
   padding-right: $navbar-padding-horizontal;
   padding-left:  $navbar-padding-horizontal;
@@ -391,6 +392,7 @@
 
 // Default navbar
 .navbar-default {
+  margin-left: 20%;
   background-color: $navbar-default-bg;
   border-color: $navbar-default-border;
 
