@@ -1,4 +1,5 @@
 .content img {
     max-width: 100%;
 }
- td, th { width: 14.28%; }
+ td, th { width: 14.28%;
+text-align: center;" }
